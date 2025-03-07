@@ -94,6 +94,9 @@ vim.g.maplocalleader = ' '
 vim.g.have_nerd_font = false
 vim.opt.termguicolors = true
 
+vim.g.undotree_SplitWidth = 50
+vim.g.undotree_SetFocusWhenToggle = 1
+
 -- [[ Setting options ]]
 -- See `:help vim.opt`
 -- NOTE: You can change these options as you wish!
